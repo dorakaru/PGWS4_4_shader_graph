@@ -3,8 +3,8 @@
 
 # 結果画像
 
-![第4回の結果](result.png)
-- 工夫した点：xxx
+![第4回の結果](result.png)![alt text](result2.png)
+- 工夫した点：BitangentVectorを2個用いて不思議なマテリアルを実装しました
 
 # 進め方
 
